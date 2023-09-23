@@ -45,6 +45,8 @@ print(numero_negativo)
 
 # Operadores Matematicos
 
+## Enteros
+
 suma = 5 + 5
 resta = 5 - 3
 multiplicacion = 5 * 5
@@ -60,3 +62,29 @@ print(f"division : {division}")
 print(f"division entera : {division_entera}")
 print(f"modulo : {modulo}")
 print(f"potencia : {potenciacion}")
+
+# Operadores en Texto
+
+saludo = 'hola'
+print(saludo)
+
+concatenacion = saludo + '88'
+print(concatenacion)
+
+casteo = saludo + str(numero)
+print(casteo)
+
+# Operador += (funciona con cualquier operador)
+
+### Normal
+num_uno = 1
+num_dos = 2
+num_uno = num_uno + num_dos
+print(num_uno)
+
+### Simplificado
+
+num_uno = 1
+num_dos = 2
+num_uno += num_dos
+print(num_uno)

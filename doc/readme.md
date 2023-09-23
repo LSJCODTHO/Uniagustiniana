@@ -49,11 +49,25 @@ Ejemplo Debil :
 >
 > Modulo -> %
 
+![img_1.png](img_1.png)
+
+### Procedencia  Aritmetica!
+
+![img_2.png](img_2.png)
+
 ### Operadores Logicos
 
 > Operadores Logicos Relacionales
 > - Igualdad -> ==
 > - Desigualdad -> !=
-> - O -> or
+> - O -> ora
 > - Y -> and
 > - Negacion -> Not
+
+![img.png](img.png)
+
+### Funcion para identificar el tipo de dato
+
+``print(type(variable))``
+
+
