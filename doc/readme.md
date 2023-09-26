@@ -70,4 +70,13 @@ Ejemplo Debil :
 
 ``print(type(variable))``
 
+### Comparacion de valores por Caracteres (string):
+
+> Los caracteres también son números, para esto existen estándares que asignan un número a cada carácter, para generar
+> un estándar se creó el ASCII pero esta solo toma en cuenta los caracteres en inglés, para dar soporte a más lenguajes
+> se
+> crea UNICODE.
+[Referencia](https://platzi.com/clases/1104-python-2019/7093-comparacion-de-strings-y-unico-1/)
+
+
 
